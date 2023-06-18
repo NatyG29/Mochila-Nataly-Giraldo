@@ -1,0 +1,3 @@
+git init: sirve para inicializar el repositorio
+git add: sirve para cargar las carpetas no actualizadas
+git commit -m: sirve para comentar y rastrear lo modificado.
